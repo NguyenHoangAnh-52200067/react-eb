@@ -55,7 +55,7 @@ const Products = () => {
 
   return (
     <section>
-      <BoxHead title="My products" />
+      <BoxHead title="Product ElasticBeastalk" />
 
       <div
         style={{

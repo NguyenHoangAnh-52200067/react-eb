@@ -14,7 +14,7 @@ const Homepage = () => {
   return (
     <>
       <section style={styles.section}>
-        <BoxHead title="My Spring ECommerce" desc="Welcome to our store!" />
+        <BoxHead title="Push Code test Ecommer" desc="Welcome to our store!" />
         <Row gutter={[5]} style={{ marginBlock: "50px" }}>
           <Col
             xs={24}
